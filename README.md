@@ -2,7 +2,7 @@
 
 这是一个无需安装任何软件、利用 Google 云端算力的在线剪辑工具。
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](你的直达链接粘贴在这里)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Tennedar/yt-clipper/blob/main/Clipper.ipynb)
 
 ### 使用说明：
 1. 点击上方按钮进入 Colab。
